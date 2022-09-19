@@ -17,6 +17,13 @@ ServiceNow IT Service Management Template project includes customizing the OOB f
 - IT Infrastructure Library
 - JavaScript
 
+## Features
+
+List of features ready and TODOs for future development
+- Customized change request
+- Customized additional change request
+- Leverage workflow
+
 ## Contributors
 Here list the people who have contributed to the project:
 
