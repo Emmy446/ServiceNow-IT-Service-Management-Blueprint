@@ -43,7 +43,7 @@ Here list the people who have contributed to the project:
 
 ### Problem Team  
 - Sasikala Thota (Lead)
-- Emmey Varghese
+- Emmy Varghese
 - Abhishek Dubey
 - Abhishek Padole
 
